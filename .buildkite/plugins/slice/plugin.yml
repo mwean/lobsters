@@ -1,0 +1,14 @@
+name: Slice
+description: Do slice stuff
+author: https://github.com/buildkite
+# requirements:
+#   - docker
+# configuration:
+#   properties:
+#     image:
+#       type: string
+#     workdir:
+#       type: string
+#   required:
+#     - image
+#     - workdir

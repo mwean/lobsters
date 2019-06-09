@@ -1,0 +1,4 @@
+steps:
+  - label: "A step that uses a repository plugin"
+    plugins:
+      - ./.buildkite/plugins/slice: ~
